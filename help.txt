@@ -1,0 +1,1 @@
+FREEWARE - A program automatiksan mutatja az abc betűit, az aktuális betű a SZÓKÖZ lenyomásvla aszövegdobozba kerül, ez kilépéskor menthető. Az időzítő a menüből kikapcsolható, ekkor a nyílbillentyűk használhatók a léptetéshez.
